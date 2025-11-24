@@ -1,2 +1,2 @@
-# DS_project_2025
-This account is for a data structure university project using the Python programming language.
+# Data Structure 2025
+This repository was created for a university project in data structure course and uses the Pyhton language.
