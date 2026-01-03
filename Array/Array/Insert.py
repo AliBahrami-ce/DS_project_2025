@@ -1,8 +1,6 @@
 class Array:
     def __init__(self, array_size):
-        self.array = []
-        for size in range(array_size):
-            self.array.append(None) 
+        self.array = [None] * array_size
         self.arr_size = array_size
         
     def insert(self, value, index):
