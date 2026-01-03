@@ -6,7 +6,7 @@ class Array:
         self.arr_size = array_size
         
     def insert(self, value, index):
-        if index <= self.arr_size:
+        if index < self.arr_size:
             self.array[index] = value
         else:
             print('Please enter valid index...')
